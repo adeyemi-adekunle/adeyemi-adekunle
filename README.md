@@ -15,5 +15,5 @@ I'm a Software Engineer, and Community Engineer who currently works as a IT Supp
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyemi-adekunle&show_icons=true&include_all_commits=true&hide_border=true" alt="Adeyemi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyemi-adekunle&langs_count=8&layout=compact&hide_border=true" alt="Adeyemi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyemiadekunle&show_icons=true&include_all_commits=true&hide_border=true" alt="Adeyemi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyemiadekunle&langs_count=8&layout=compact&hide_border=true" alt="Adeyemi's GitHub stats" /> |
 | ------------- | ------------- |
